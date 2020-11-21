@@ -240,19 +240,19 @@ footer {padding-bottom:5px}
 }
 
 /*Reddit flair*/
-.username::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/tiger.png');}
-.teamtaiga::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/taiga.png');}
-.teamami::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/ami.png');}
-.teamminori::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/minori.png');}
-.teaminko::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/inko.png');}
-.teamkitamura::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/kitamura.png');}
-.teamkihara::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/kihara.png');}
-.teamharuta::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/haruta.png');}
-.teamsensei::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/sensei.png');}
-.teammom::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/mom.png');}
-.teamryuuji::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/ryuuji.png');}
+.username::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/tiger.png');}
+.teamtaiga::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/taiga.png');}
+.teamami::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/ami.png');}
+.teamminori::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/minori.png');}
+.teaminko::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/inko.png');}
+.teamkitamura::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/kitamura.png');}
+.teamkihara::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/kihara.png');}
+.teamharuta::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/haruta.png');}
+.teamsensei::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/sensei.png');}
+.teammom::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/mom.png');}
+.teamryuuji::before{background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/ryuuji.png');}
 .chat-msg-_North .username::before {
-background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/kagami.ico');
+background:url('https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/kagami.ico');
 }
 .username::before{
 	content:"AA";
@@ -272,7 +272,7 @@ color:rgba(0,0,0,0);
 
 span.glyphicon.glyphicon-time {
 	color: rgba(255,0,0,0);
-	background: url("https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/zzz.png");}
+	background: url("https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@main/Images/zzz.png");}
 
 /* Snow and ERABE effect below */
 
