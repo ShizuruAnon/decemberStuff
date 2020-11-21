@@ -35,7 +35,7 @@ var advertisements = [
 
 var adPercent = 0.1;
 
-var Favicon_URL = 'https://cdn.jsdelivr.net/gh/HappyHub1/December/Images/tiger.png';
+var Favicon_URL = 'https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/tiger.png';
 
 var ChannelName_Caption = '25 Days of Autism';
 
@@ -802,7 +802,7 @@ if (USEROPTS.hidevid) {
 }
 
 //Team Colour
-$('head').append('<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/HappyHub1/December/teamcolor.js">');
+$('head').append('<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/teamcolor.js">');
 
 // changing initial layout to compact
 $("body").addClass('fluid');
@@ -2738,17 +2738,17 @@ class CustomTextTriggers {
 
 		CustomTextTriggers.padoru_images = [
 			// Yue
-			'https://cdn.jsdelivr.net/gh/HappyHub1/December/Images/yue-padoru.png',
+			'https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/yue-padoru.png',
 			// Saber
-			'https://cdn.jsdelivr.net/gh/HappyHub1/December/Images/saber-padoru.png',
+			'https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/saber-padoru.png',
 			// Chino
-			'https://cdn.jsdelivr.net/gh/HappyHub1/December/Images/chino-padoru.png',
+			'https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/chino-padoru.png',
 			// Taiga
-			'https://cdn.jsdelivr.net/gh/HappyHub1/December/Images/taiga-padoru.png',
+			'https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/taiga-padoru.png',
 			// Miku
-			'https://cdn.jsdelivr.net/gh/HappyHub1/December/Images/miku-padoru.png',
+			'https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/miku-padoru.png',
 			// Shizuru
-			'https://cdn.jsdelivr.net/gh/HappyHub1/December/Images/shizu_padoru.png',
+			'https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/Images/shizu_padoru.png',
 		];
 		CustomTextTriggers.padoru_levels = [
 			{ spawn_rate: 1000, spawn_limit: 6 },
