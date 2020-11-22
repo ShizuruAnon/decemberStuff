@@ -48,7 +48,7 @@ var ChannelName_Caption = '25 Days of Autism';
 
 var TitleBarDescription_Caption = '>Streaming:';
 
-var ThemesCSS = 
+var ThemesCSS = [
 ];
 
 var TopUserLogo = [
