@@ -35,9 +35,11 @@ var advertisements = [
 
 var adPercent = 0.1;
 
-var commit_hash = '5d2664b867dc294d7c8b747e1e32c859df771fed'
+//var commit_hash = '5d2664b867dc294d7c8b747e1e32c859df771fed'
+var commit_hash = 'main'
 
 var site_url = 'https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff@'.concat(commit_hash).concat('/')
+//var site_url = 'https://cdn.jsdelivr.net/gh/ShizuruAnon/decemberStuff/'
 var images_url = site_url.concat('Images/')
 var Favicon_URL = images_url.concat('tiger.png');
 var team_color_url = site_url.concat('tColor.js');
